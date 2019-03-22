@@ -15,16 +15,16 @@ https://5.imimg.com/data5/RT/GX/MY-22136372/elevator-for-office-building-supplie
 
 There are a Office Building with 10 floors and 2 elevators.
 There are 4 companies in this building
-  - 1-2 company 1 (50 employes)
-  - 3 company 2 (20 employes)
-  - 5 company 3 (30 employes)
-  - 7-8-9 company 4 (150 employes)
-The elevator equipament has a way to inform the correct floor you want before call it (a panel with numbers in the building hall).
+  - Floor: 1-2; company 1 (25 employes in each floor)
+  - Floor: 3; company 2 (20 employes)
+  - Floor: 5; company 3 (30 employes)
+  - Floor: 7-8-9; company 4 (50 employes in each floor)
+The elevator's equipament has a way to inform the correct floor you want before call it (a panel with numbers in the building hall).
 The elevator travels at speed 5 floors per minute.
 The elevator maximum capacity is about 1080KG (aproximately 16 peoples).
 
-How much time you will take to travel all the employes to its companies? 
-(think that everyone are on the building hall waiting the elevator)
+**How much time you will take to travel all the employes to its companies?**
+(think that everyone are on the building hall waiting the elevator, so less time is better.)
 
 Show your code and results.
 
