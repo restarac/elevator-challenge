@@ -1,2 +1,2 @@
 {:deps
- {clj-time {:mvn/version "0.14.2"}}}
+ {time-lib {:local/root "E:/frederico/documents/github-projects/elevator-challenge/hello-time"}}}
