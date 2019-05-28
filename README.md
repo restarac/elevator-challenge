@@ -29,3 +29,6 @@ https://5.imimg.com/data5/RT/GX/MY-22136372/elevator-for-office-building-supplie
 
 Show your code and results.
 
+# Second Scenario
+
+Assuming that you will continue, so you are a more succesfuly Startup Owner, and you company grownth without limits, so it's time for you next challenge.
