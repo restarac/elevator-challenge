@@ -86,7 +86,7 @@ Assuming that you will continue, so you are a more succesfuly Startup Owner, and
 - How many travels you made?
 - How many time opening, waiting and closing the doors takes?
 
-# Like hell (closest the reality)
+# Like hell (closest to the reality)
 
 So, now its time to close the reality gap between our software and why do that?
 The reason is: when your software are more close to reality, more dificulties you have to simulate and estimate things that you need.
