@@ -9,9 +9,9 @@ and design a software capable to choose the best option to a person in a determi
 
 In this case, you are a new guy in this business and you are trying to figure out how to develop that, so there is more information about that...
 
-# Beginner's chalenge
+# Beginner's challenge
 
-Lets begin with a easy task, here are the chalenge context:
+Lets begin with a easy task, here are the challenge context:
 
 <img src="images/one-elevator.jpg" width="300">
 
@@ -28,7 +28,7 @@ Lets begin with a easy task, here are the chalenge context:
 - Show a log of the elevator actions (format as you want, but one action per logs line).
 - How much time you will take to travel all the employes to its companies?
 
-# Intermediate chalenge
+# Intermediate challenge
 
 You sucessfully deliver your MVP (Minimun Value Product) and here is the second phase for your company growth:
 
