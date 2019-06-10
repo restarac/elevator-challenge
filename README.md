@@ -17,7 +17,7 @@ Lets begin with a easy task, here are the challenge context:
 
 - There are a Office Building with 6 floors and 1 elevators.
 - There are 1 companies in this building
-  - Floor: 5; company 1 (150 employes)
+  - Floor: 5; company 1 (150 employees)
 - The elevator's equipament has a way to inform the correct floor you want before call it (a panel with numbers in the building hall).
 - The elevator travels at speed 10 floors per minute.
 - The elevator maximum capacity is about 820KG (aproximately 12 peoples).
@@ -26,7 +26,7 @@ Lets begin with a easy task, here are the challenge context:
 #### Objectives:
 
 - Show a log of the elevator actions (format as you want, but one action per logs line).
-- How much time you will take to travel all the employes to its companies?
+- How much time you will take to travel all the employees to its companies?
 
 # Intermediate challenge
 
@@ -36,21 +36,21 @@ You sucessfully deliver your MVP (Minimun Value Product) and here is the second 
 
 - There are a Office Building with 10 floors and 2 elevators.
 - There are 4 companies in this building
-  - Floor: 1-2; company 1 (25 employes in each floor)
-  - Floor: 3; company 2 (20 employes)
-  - Floor: 5; company 3 (30 employes)
-  - Floor: 7-8-9; company 4 (50 employes in each floor)
+  - Floor: 1-2; company 1 (25 employees in each floor)
+  - Floor: 3; company 2 (20 employees)
+  - Floor: 5; company 3 (30 employees)
+  - Floor: 7-8-9; company 4 (50 employees in each floor)
 
 - The elevator's equipament has a way to inform the correct floor you want before call it (a panel with numbers in the building hall).
 - The elevator travels at speed 5 floors per minute.
 - The elevator maximum capacity is about 1080KG (aproximately 16 peoples).
 - Think that everyone are on the building hall waiting the elevator are patient, so dont care about the order or queue in the hall.
-- You can leave some employes on intermediate floor to pickup it later (They are happy with your success).
+- You can leave some employees on intermediate floor to pickup it later (They are happy with your success).
 
 #### Objectives:
 
 - Show a log of the elevator actions (format as you want, but one action per logs line).
-- How much time you will take to travel all the employes to its companies?
+- How much time you will take to travel all the employees to its companies?
 - How many travels you made?
 
 # Advanced
@@ -61,15 +61,15 @@ Assuming that you will continue, so you are a more succesfuly Startup Owner, and
 
 - There are a Office Building with 20 floors and 6 elevators.
 - There are 9 companies in this building
-  - Floor: 1-2; company 1 (30 employes in each floor)
-  - Floor: 3; company 2 (30 employes)
-  - Floor: 5; company 3 (40 employes)
-  - Floor: 7-8-9; company 4 (50 employes in each floor)
-  - Floor: 11-12; company 5 (25 employes in each floor)
-  - Floor: 13; company 6 (30 employes)
-  - Floor: 14; company 7 (20 employes)
-  - Floor: 17; company 8 (100 employes)
-  - Floor: 18-19-20; company 9 (50 employes in each floor)
+  - Floor: 1-2; company 1 (30 employees in each floor)
+  - Floor: 3; company 2 (30 employees)
+  - Floor: 5; company 3 (40 employees)
+  - Floor: 7-8-9; company 4 (50 employees in each floor)
+  - Floor: 11-12; company 5 (25 employees in each floor)
+  - Floor: 13; company 6 (30 employees)
+  - Floor: 14; company 7 (20 employees)
+  - Floor: 17; company 8 (100 employees)
+  - Floor: 18-19-20; company 9 (50 employees in each floor)
 - The elevator's equipament has a way to inform the correct floor you want before call it (a panel with numbers in the building hall).
 - The elevator travels at speed of 40 floors per minute.
 - The elevator maximum capacity is about 1210KG (aproximately 18 peoples).
